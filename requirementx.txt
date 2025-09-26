@@ -1,5 +1,3 @@
-# requirements.txt
-
 streamlit
 yt-dlp
 streamlit-image-select
